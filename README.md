@@ -1,5 +1,12 @@
 - Mikroservis Nedir ?
-- Gateway Nedir?
-- Ocelot ve Gateway Çözümleri:
+- API Gateway Nedir?
+- Ocelot ve Diğer API Gateway Çözümleri:
+  - Ocelot
+  - YARP
+  - NGNIX
+  - AWS API Gateway
+  - Azure API Management
+  - Kong
+  - Traefik
 - Docker ile Ayağa Kaldırma:
 - YARP (Yet Another Reverse Proxy) Nedir ?
